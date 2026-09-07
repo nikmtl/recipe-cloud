@@ -105,10 +105,11 @@ Recipe Cloud is self-hosted and account-based: almost everything requires loggin
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="docs/assets/icons/sparkles.svg" width="18" height="18" align="absmiddle" /> AI
+#### <img src="docs/assets/icons/sparkles.svg" width="18" height="18" align="absmiddle" /> AI Features
 
+- <span style="color:red">No AI recipe generation!</span> We explicitly **don't want AI-generated recipe slop**. AI is just a helpful tool, but the recipe creation should always be a human process. 
 - Import recipes from websites, Instagram/TikTok/YouTube videos, or unstructured/pasted text using AI parsing
-- Use AI to enhance existing recipes: steps, tags, nutritional analysis, and so on
+- Use AI to enhance existing recipes: tags, nutritional analysis, and so on
 - Automatically link ingredients to the steps that use them
 - Support multiple AI providers, configurable instance-wide
 - iOS app directly appearing in the share sheet to import recipes from other apps
