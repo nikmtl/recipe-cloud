@@ -10,9 +10,13 @@
 
 **A self-hosted recipe manager for your kitchen – with households, AI-assisted import and colaboration with friends and family.**
 
+<a href="STATUS"><img alt="Status" src="https://img.shields.io/badge/Status-in--development-blue?style=flat-square" /></a>
 <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/nikmtl/recipe-cloud?style=flat-square&color=6B7280" /></a>
-<a href="https://github.com/nikmtl/recipe-cloud/releases"><img alt="Latest Release" src="https://img.shields.io/github/v/release/nikmtl/recipe-cloud?include_prereleases&style=flat-square&color=6B7280" /></a>
 <a href="https://github.com/nikmtl/recipe-cloud"><img alt="Stars" src="https://img.shields.io/github/stars/nikmtl/recipe-cloud?style=flat-square&color=6B7280" /></a>
+<!-- TODO: once there's a release, add a badge for it here:
+<a href="https://github.com/nikmtl/recipe-cloud/releases"><img alt="Latest Release" src="https://img.shields.io/github/v/release/nikmtl/recipe-cloud?include_prereleases&style=flat-square&color=6B7280" /></a>
+-->
+
 <!-- TODO: once there's a CI workflow, Docker image, and a hosted demo, add badges for them here, e.g.:
 <a href="#"><img alt="Demo" src="https://img.shields.io/badge/Demo-try-111827?style=for-the-badge" /></a>
 <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/nikmtl/recipe-cloud/test.yml?branch=main&style=for-the-badge" />
@@ -37,7 +41,7 @@
 </div>
 
 
-## Features
+## Features[^1]
 
 <div align="center">
 
@@ -173,11 +177,12 @@ docker compose up -d
 ```
 -->
 
-Recipe Cloud is currently in the planning/design phase — there's no installable release yet. Check back here once an image is published.
+> [!NOTE]
+> Recipe Cloud is currently in the planning/design phase — there's no installable release yet. Check back here once an image is published.
 
 <br />
 
-## Tech stack
+## Tech stack[^1]
 
 <div align="center">
 
@@ -213,3 +218,5 @@ Happy Cooking! 👨‍🍳👩‍🍳
 <p style="color: gray; font-size: smaller; font-style: italic; transform: translate(0, -1.3em);">#novibecode #selfhosted</p>
 
 </div>
+
+[^1]: Recipe Cloud is still in development, so this is subject to change.
